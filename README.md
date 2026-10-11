@@ -5,7 +5,7 @@ Zadajesz pytanie zwykłym językiem („gdzie będziemy spać na wyjeździe?”)
 znajduje pasujące wiadomości i na ich podstawie generuje odpowiedź z cytatami
 wskazującymi konkretne wiadomości źródłowe.
 
-Projekt zaliczeniowy z przedmiotu Generatywna Sztuczna Inteligencja (Politechnika Śląska, 2025/2026).
+Projekt zaliczeniowy z przedmiotu Generatywna Sztuczna Inteligencja.
 
 ## Przykład
 
