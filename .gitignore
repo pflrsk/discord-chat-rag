@@ -1,0 +1,12 @@
+# Środowiska wirtualne i cache Pythona
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Klucze API i sekrety - NIE wrzucać do repo
+.env
+webhook.txt
+
+# Prawdziwe rozmowy pobrane z Discorda (dane prywatne)
+data/discord_export.json
