@@ -1,0 +1,1010 @@
+{
+  "guild": {
+    "id": "9001",
+    "name": "Ekipa znajomych"
+  },
+  "channel": {
+    "id": "9101",
+    "name": "ogólny",
+    "type": "GuildTextChat"
+  },
+  "dateRange": {
+    "after": "2026-05-18T18:30:00+00:00",
+    "before": "2026-05-31T16:20:00+00:00"
+  },
+  "messages": [
+    {
+      "id": "2000001",
+      "type": "Default",
+      "timestamp": "2026-05-18T18:30:00+00:00",
+      "timestampEdited": null,
+      "content": "Hej, co myślicie o wspólnym wyjeździe w góry w długi weekend czerwcowy?",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000002",
+      "type": "Default",
+      "timestamp": "2026-05-18T18:37:00+00:00",
+      "timestampEdited": null,
+      "content": "Jestem za! Bieszczady czy Tatry?",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000003",
+      "type": "Default",
+      "timestamp": "2026-05-18T18:44:00+00:00",
+      "timestampEdited": null,
+      "content": "Ja głosuję za Bieszczadami, w Tatrach będą tłumy.",
+      "author": {
+        "id": "1003",
+        "name": "Celina",
+        "nickname": "Celina",
+        "color": "#2ecc71",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000004",
+      "type": "Default",
+      "timestamp": "2026-05-18T18:51:00+00:00",
+      "timestampEdited": null,
+      "content": "Bieszczady spoko, mniej ludzi i taniej.",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000005",
+      "type": "Default",
+      "timestamp": "2026-05-18T18:58:00+00:00",
+      "timestampEdited": null,
+      "content": "Też wolę Bieszczady. Kiedy dokładnie?",
+      "author": {
+        "id": "1005",
+        "name": "Ela",
+        "nickname": "Ela",
+        "color": "#f39c12",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000006",
+      "type": "Default",
+      "timestamp": "2026-05-18T19:05:00+00:00",
+      "timestampEdited": null,
+      "content": "Myślałam o 6-8 czerwca, sobota-poniedziałek.",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000007",
+      "type": "Default",
+      "timestamp": "2026-05-18T19:12:00+00:00",
+      "timestampEdited": null,
+      "content": "Pasuje mi. Ile osób w sumie jedzie?",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000008",
+      "type": "Default",
+      "timestamp": "2026-05-18T19:19:00+00:00",
+      "timestampEdited": null,
+      "content": "Na razie nas piątka, ale spytam jeszcze Kasię.",
+      "author": {
+        "id": "1003",
+        "name": "Celina",
+        "nickname": "Celina",
+        "color": "#2ecc71",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000009",
+      "type": "Default",
+      "timestamp": "2026-05-18T19:26:00+00:00",
+      "timestampEdited": null,
+      "content": "Czym jedziemy? Mam auto na 5 osób.",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000010",
+      "type": "Default",
+      "timestamp": "2026-05-18T19:33:00+00:00",
+      "timestampEdited": null,
+      "content": "Super, to autem Darka. Dorzucimy się do paliwa.",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000011",
+      "type": "Default",
+      "timestamp": "2026-05-19T12:10:00+00:00",
+      "timestampEdited": null,
+      "content": "Znalazłam fajne schronisko pod Połoniną Wetlińską, ma wolne miejsca.",
+      "author": {
+        "id": "1005",
+        "name": "Ela",
+        "nickname": "Ela",
+        "color": "#f39c12",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000012",
+      "type": "Default",
+      "timestamp": "2026-05-19T12:16:00+00:00",
+      "timestampEdited": null,
+      "content": "Ile za noc?",
+      "author": {
+        "id": "1003",
+        "name": "Celina",
+        "nickname": "Celina",
+        "color": "#2ecc71",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000013",
+      "type": "Default",
+      "timestamp": "2026-05-19T12:22:00+00:00",
+      "timestampEdited": null,
+      "content": "Jakieś 70 zł za osobę ze śniadaniem.",
+      "author": {
+        "id": "1005",
+        "name": "Ela",
+        "nickname": "Ela",
+        "color": "#f39c12",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000014",
+      "type": "Default",
+      "timestamp": "2026-05-19T12:28:00+00:00",
+      "timestampEdited": null,
+      "content": "Biorę. Rezerwujemy dwie noce?",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000015",
+      "type": "Default",
+      "timestamp": "2026-05-19T12:34:00+00:00",
+      "timestampEdited": null,
+      "content": "Tak, dwie noce. Ela, zarezerwujesz?",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000016",
+      "type": "Default",
+      "timestamp": "2026-05-19T12:40:00+00:00",
+      "timestampEdited": null,
+      "content": "Jasne, robię rezerwację dzisiaj wieczorem.",
+      "author": {
+        "id": "1005",
+        "name": "Ela",
+        "nickname": "Ela",
+        "color": "#f39c12",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000017",
+      "type": "Default",
+      "timestamp": "2026-05-19T12:46:00+00:00",
+      "timestampEdited": null,
+      "content": "Pamiętajcie o porządnych butach, na Połoninie bywa ślisko.",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000018",
+      "type": "Default",
+      "timestamp": "2026-05-20T09:15:00+00:00",
+      "timestampEdited": null,
+      "content": "Słuchajcie, musimy ruszyć z projektem na zaliczenie z GenSI.",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000019",
+      "type": "Default",
+      "timestamp": "2026-05-20T09:23:00+00:00",
+      "timestampEdited": null,
+      "content": "Racja, deadline jest 15 czerwca. Mamy temat?",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000020",
+      "type": "Default",
+      "timestamp": "2026-05-20T09:31:00+00:00",
+      "timestampEdited": null,
+      "content": "Może coś z analizą tekstu? Streszczanie albo wyszukiwanie.",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000021",
+      "type": "Default",
+      "timestamp": "2026-05-20T09:39:00+00:00",
+      "timestampEdited": null,
+      "content": "A może aplikacja, która streszcza fragmenty rozmów z czatu?",
+      "author": {
+        "id": "1003",
+        "name": "Celina",
+        "nickname": "Celina",
+        "color": "#2ecc71",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000022",
+      "type": "Default",
+      "timestamp": "2026-05-20T09:47:00+00:00",
+      "timestampEdited": null,
+      "content": "O, to jest dobre. Wyszukiwanie semantyczne + streszczanie.",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000023",
+      "type": "Default",
+      "timestamp": "2026-05-20T09:55:00+00:00",
+      "timestampEdited": null,
+      "content": "Podoba mi się. Podzielmy się zadaniami.",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000024",
+      "type": "Default",
+      "timestamp": "2026-05-20T10:03:00+00:00",
+      "timestampEdited": null,
+      "content": "Ja wezmę embeddingi i wyszukiwanie.",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000025",
+      "type": "Default",
+      "timestamp": "2026-05-20T10:11:00+00:00",
+      "timestampEdited": null,
+      "content": "Ja zrobię interfejs w Streamlit.",
+      "author": {
+        "id": "1003",
+        "name": "Celina",
+        "nickname": "Celina",
+        "color": "#2ecc71",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000026",
+      "type": "Default",
+      "timestamp": "2026-05-20T10:19:00+00:00",
+      "timestampEdited": null,
+      "content": "Ja ogarnę streszczanie przez API modelu.",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000027",
+      "type": "Default",
+      "timestamp": "2026-05-20T10:27:00+00:00",
+      "timestampEdited": null,
+      "content": "To ja biorę dokumentację i dane testowe.",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000028",
+      "type": "Default",
+      "timestamp": "2026-05-23T17:00:00+00:00",
+      "timestampEdited": null,
+      "content": "Zrobiłam zestaw danych testowych, syntetyczny czat z timestampami.",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000029",
+      "type": "Default",
+      "timestamp": "2026-05-23T17:06:00+00:00",
+      "timestampEdited": null,
+      "content": "Mega, dzięki. Wyszukiwanie semantyczne już mi działa lokalnie.",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000030",
+      "type": "Default",
+      "timestamp": "2026-05-23T17:12:00+00:00",
+      "timestampEdited": null,
+      "content": "Interfejs prawie gotowy, dodaję suwaki do wyboru zakresu czasu.",
+      "author": {
+        "id": "1003",
+        "name": "Celina",
+        "nickname": "Celina",
+        "color": "#2ecc71",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000031",
+      "type": "Default",
+      "timestamp": "2026-05-23T17:18:00+00:00",
+      "timestampEdited": null,
+      "content": "Streszczanie działa, dodałem tryb awaryjny gdyby nie było klucza API.",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000032",
+      "type": "Default",
+      "timestamp": "2026-05-23T17:24:00+00:00",
+      "timestampEdited": null,
+      "content": "Świetnie idziemy. Spotkajmy się w środę żeby to skleić.",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000033",
+      "type": "Default",
+      "timestamp": "2026-05-24T20:30:00+00:00",
+      "timestampEdited": null,
+      "content": "PSST, bez Celiny. Jej urodziny są 30 maja, trzeba ogarnąć prezent.",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000034",
+      "type": "Default",
+      "timestamp": "2026-05-24T20:35:00+00:00",
+      "timestampEdited": null,
+      "content": "Racja! Macie pomysły?",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000035",
+      "type": "Default",
+      "timestamp": "2026-05-24T20:40:00+00:00",
+      "timestampEdited": null,
+      "content": "Mówiła kiedyś, że chce słuchawki bezprzewodowe.",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000036",
+      "type": "Default",
+      "timestamp": "2026-05-24T20:45:00+00:00",
+      "timestampEdited": null,
+      "content": "O, dobry pomysł. Zrzutka po 50 zł od osoby?",
+      "author": {
+        "id": "1005",
+        "name": "Ela",
+        "nickname": "Ela",
+        "color": "#f39c12",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000037",
+      "type": "Default",
+      "timestamp": "2026-05-24T20:50:00+00:00",
+      "timestampEdited": null,
+      "content": "Pasuje. Bartek, ogarniesz zakup?",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000038",
+      "type": "Default",
+      "timestamp": "2026-05-24T20:55:00+00:00",
+      "timestampEdited": null,
+      "content": "Jasne, znajdę dobry model do 250 zł.",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000039",
+      "type": "Default",
+      "timestamp": "2026-05-26T13:45:00+00:00",
+      "timestampEdited": null,
+      "content": "Kupiłem słuchawki, te z dobrą redukcją szumów.",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000040",
+      "type": "Default",
+      "timestamp": "2026-05-26T13:50:00+00:00",
+      "timestampEdited": null,
+      "content": "Super! Gdzie robimy imprezę urodzinową?",
+      "author": {
+        "id": "1005",
+        "name": "Ela",
+        "nickname": "Ela",
+        "color": "#f39c12",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000041",
+      "type": "Default",
+      "timestamp": "2026-05-26T13:55:00+00:00",
+      "timestampEdited": null,
+      "content": "Może u mnie? Mam duży salon i ogród.",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000042",
+      "type": "Default",
+      "timestamp": "2026-05-26T14:00:00+00:00",
+      "timestampEdited": null,
+      "content": "Idealnie. Sobota 30 maja, godzina 18?",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000043",
+      "type": "Default",
+      "timestamp": "2026-05-26T14:05:00+00:00",
+      "timestampEdited": null,
+      "content": "Gra. Ja zrobię tort.",
+      "author": {
+        "id": "1005",
+        "name": "Ela",
+        "nickname": "Ela",
+        "color": "#f39c12",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000044",
+      "type": "Default",
+      "timestamp": "2026-05-27T21:00:00+00:00",
+      "timestampEdited": null,
+      "content": "Ktoś chętny na planszówki w piątek wieczorem?",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000045",
+      "type": "Default",
+      "timestamp": "2026-05-27T21:04:00+00:00",
+      "timestampEdited": null,
+      "content": "Ja! Weźmiemy Catana?",
+      "author": {
+        "id": "1003",
+        "name": "Celina",
+        "nickname": "Celina",
+        "color": "#2ecc71",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000046",
+      "type": "Default",
+      "timestamp": "2026-05-27T21:08:00+00:00",
+      "timestampEdited": null,
+      "content": "Catan albo Wsiąść do Pociągu, oba lubię.",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000047",
+      "type": "Default",
+      "timestamp": "2026-05-27T21:12:00+00:00",
+      "timestampEdited": null,
+      "content": "Może być Wsiąść do Pociągu, dawno nie grałam.",
+      "author": {
+        "id": "1005",
+        "name": "Ela",
+        "nickname": "Ela",
+        "color": "#f39c12",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000048",
+      "type": "Default",
+      "timestamp": "2026-05-27T21:16:00+00:00",
+      "timestampEdited": null,
+      "content": "OK, piątek 20:00 u mnie. Przyniosę przekąski.",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000049",
+      "type": "Default",
+      "timestamp": "2026-05-29T10:20:00+00:00",
+      "timestampEdited": null,
+      "content": "Ale wczoraj fajny wieczór, wygrałam w pociągi!",
+      "author": {
+        "id": "1003",
+        "name": "Celina",
+        "nickname": "Celina",
+        "color": "#2ecc71",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000050",
+      "type": "Default",
+      "timestamp": "2026-05-29T10:25:00+00:00",
+      "timestampEdited": null,
+      "content": "Miałaś szczęście do długich tras :)",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000051",
+      "type": "Default",
+      "timestamp": "2026-05-29T10:30:00+00:00",
+      "timestampEdited": null,
+      "content": "Rewanż za tydzień, ostrzegam.",
+      "author": {
+        "id": "1005",
+        "name": "Ela",
+        "nickname": "Ela",
+        "color": "#f39c12",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000052",
+      "type": "Default",
+      "timestamp": "2026-05-29T10:35:00+00:00",
+      "timestampEdited": null,
+      "content": "Liczę na rewanż. A propos, pogoda na weekend zapowiada się słoneczna.",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000053",
+      "type": "Default",
+      "timestamp": "2026-05-29T10:40:00+00:00",
+      "timestampEdited": null,
+      "content": "To dobrze wróży na wyjazd w góry!",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000054",
+      "type": "Default",
+      "timestamp": "2026-05-30T22:30:00+00:00",
+      "timestampEdited": null,
+      "content": "Wszystkiego najlepszego Celina jeszcze raz! Świetna impreza.",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000055",
+      "type": "Default",
+      "timestamp": "2026-05-30T22:34:00+00:00",
+      "timestampEdited": null,
+      "content": "Dziękuję wam bardzo! Słuchawki rewelacja, jak wiedzieliście :)",
+      "author": {
+        "id": "1003",
+        "name": "Celina",
+        "nickname": "Celina",
+        "color": "#2ecc71",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000056",
+      "type": "Default",
+      "timestamp": "2026-05-30T22:38:00+00:00",
+      "timestampEdited": null,
+      "content": "Mały wywiad zrobiliśmy ;)",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000057",
+      "type": "Default",
+      "timestamp": "2026-05-30T22:42:00+00:00",
+      "timestampEdited": null,
+      "content": "Tort też się udał, sama jestem zaskoczona.",
+      "author": {
+        "id": "1005",
+        "name": "Ela",
+        "nickname": "Ela",
+        "color": "#f39c12",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000058",
+      "type": "Default",
+      "timestamp": "2026-05-31T16:00:00+00:00",
+      "timestampEdited": null,
+      "content": "Przypominam: za tydzień wyjazd. Spakujcie kurtki, w górach chłodno.",
+      "author": {
+        "id": "1004",
+        "name": "Darek",
+        "nickname": "Darek",
+        "color": "#9b59b6",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000059",
+      "type": "Default",
+      "timestamp": "2026-05-31T16:05:00+00:00",
+      "timestampEdited": null,
+      "content": "Rezerwacja schroniska potwierdzona, dwie noce.",
+      "author": {
+        "id": "1005",
+        "name": "Ela",
+        "nickname": "Ela",
+        "color": "#f39c12",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000060",
+      "type": "Default",
+      "timestamp": "2026-05-31T16:10:00+00:00",
+      "timestampEdited": null,
+      "content": "Projekt z GenSI też prawie skończony, zostaje dokumentacja.",
+      "author": {
+        "id": "1001",
+        "name": "Ala",
+        "nickname": "Ala",
+        "color": "#e74c3c",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000061",
+      "type": "Default",
+      "timestamp": "2026-05-31T16:15:00+00:00",
+      "timestampEdited": null,
+      "content": "Czyli wszystko pod kontrolą. Dobra robota ekipa!",
+      "author": {
+        "id": "1002",
+        "name": "Bartek",
+        "nickname": "Bartek",
+        "color": "#3498db",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    },
+    {
+      "id": "2000062",
+      "type": "Default",
+      "timestamp": "2026-05-31T16:20:00+00:00",
+      "timestampEdited": null,
+      "content": "Najlepsza ekipa <3",
+      "author": {
+        "id": "1003",
+        "name": "Celina",
+        "nickname": "Celina",
+        "color": "#2ecc71",
+        "isBot": false
+      },
+      "attachments": [],
+      "reactions": []
+    }
+  ],
+  "messageCount": 62
+}

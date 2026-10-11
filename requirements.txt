@@ -1,0 +1,18 @@
+# Interfejs webowy
+streamlit>=1.30
+
+# Wyszukiwanie semantyczne (embeddingi) i fallback TF-IDF
+sentence-transformers>=2.2
+scikit-learn>=1.3
+numpy>=1.24
+
+# Parsowanie znaczników czasu
+python-dateutil>=2.8
+
+# Wczytywanie kluczy z pliku .env
+python-dotenv>=1.0
+
+# Streszczanie przez API LLM (opcjonalne — potrzebne tylko z kluczem API)
+google-genai>=0.3
+anthropic>=0.39
+openai>=1.40
